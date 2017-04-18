@@ -39,6 +39,14 @@ layout: default
 		</div>
 	</div>
 
+
+
+	<div class="cta">
+		<h2>Let's go back to the home page</h2>
+		<p>Read other rants Without Bullshit</p>
+		<div class="button"><a href="withoutbullshit.xyz">Let's go!</a></div>
+	</div>
+
 	<div class="sharing">
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
@@ -48,13 +56,7 @@ layout: default
 		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
 
-	<div class="cta">
-		<h2>Let's go back to the home page</h2>
-		<p>Read other rants Without Bullshit</p>
-		<div class="button"><a href="withoutbullshit.xyz">Let's go!</a></div>
-	</div>
-
-	<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5"></div>
+	<div class="fb-comments" data-href="https://withoutbullshit.xyz{{ site.baseurl }}/{{ page.path }}" data-numposts="5"></div>
 
 </article>
 
