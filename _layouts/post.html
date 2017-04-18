@@ -1,6 +1,16 @@
 ---
 layout: default
 ---
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=1287390674676246";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
 <article class="post">
 	{% include post-heading.html post=page post_page=true %}
 	<div class="image">
@@ -43,23 +53,9 @@ layout: default
 		<p>Read other rants Without Bullshit</p>
 		<div class="button"><a href="/recipes">Let's go!</a></div>
 	</div>
-	{% if site.disqus_shortname and page.comments %}
-		<div id="disqus_thread"></div>
-		<script>
-			var disqus_shortname = '{{ site.disqus_shortname }}';
-			var disqus_config = function () {
-				this.page.url = "{{ page.url | prepend: site.url }}";
-				this.page.identifier = "{{ page.id }}";
-			};
-			(function() {  // DON'T EDIT BELOW THIS LINE
-				var d = document, s = d.createElement('script');
-				s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-				s.setAttribute('data-timestamp', +new Date());
-				(d.head || d.body).appendChild(s);
-			})();
-		</script>
-		<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
-	{% endif %}
+	
+	<div class="fb-comments" data-href="https://developers.facebook.com/docs/plugins/comments#configurator" data-numposts="5"></div>
+
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
