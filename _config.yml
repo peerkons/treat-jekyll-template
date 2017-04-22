@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Treat Template
+title: Without Bullshit
 url: "withoutbullshit.xyz"
 baseurl:
 google_analytics_key:
@@ -10,10 +10,10 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
+description: a no-bullshit blog
 
 social:
-  name: Treat Template
+  name: Without Bullshit
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
