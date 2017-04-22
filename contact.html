@@ -4,7 +4,7 @@ title: Contact
 <h1>Contact</h1>
 <p class="editable">Get in touch with Without Bullshit</p>
 
-<form method="post" action="{{ site.baseurl }}/contact-success/">
+<form method="post" action="https://formspree.io/withoutbsxyz@gmail.com" id="forma">
 		<input type="hidden" name="_to" value="{{ site.data.email }}" />
 		<input type="text" name="_gotcha" style="display: none;" />
 
@@ -27,7 +27,7 @@ title: Contact
 
 		<div class="split">
 			<label for="subject">Subject</label>
-			<select id="subject" name="subject">
+			<select id="subject" name="subject" form="forma">
 				<option value="enquiry">Enquiry</option>
 				<option value="suggestion">Suggestion</option>
 				<option value="press">Press</option>
