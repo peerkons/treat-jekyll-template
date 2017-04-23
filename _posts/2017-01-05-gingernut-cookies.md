@@ -2,7 +2,7 @@
 date: 2017-01-05
 title: Gingernut Cookies
 categories:
-  - Cookies
+  - Fitness
 featured_image: https://source.unsplash.com/dZKiXR9FYcM/1920x1200
 recipe:
   servings: 60 cookies
