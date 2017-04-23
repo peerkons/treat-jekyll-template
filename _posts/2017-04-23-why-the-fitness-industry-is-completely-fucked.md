@@ -31,16 +31,10 @@ recipe:
 ---
 
 
-These are traditionally a very hard crisp cookie made for dunking into tea or coffee. The bigger you make the balls the crunchier the end result.
+Ever sit your ass down on Reddit and notice that a bodybuilding/fitness/steroid/weightlifting/whatever subreddit reaches the front page? Well, when it happens from time to time, the outcome always is the same. 9Gaggers who sit their asses in the front page ready their fingers for some quality trolling, while gym social justice warriors put down their dumbbells to prepare for a counterattack. The reason why stupid shit happens is because behind the protection of a computer screen everybody feels mighty and capable of giving out a punch. Most recently, a similar post reached r/whitepeoplegifs and now r/wtf -
 
-![Cookie](https://source.unsplash.com/euGck1ifvp0)
+https://www.reddit.com/r/WTF/comments/66x9mj/nice_set_xpost_from_rwhitepeoplegifs/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=WTF
 
-Carefully placing them on the tray.
+Now, let's examine this specimen - basically we can see the world record holder in benchpress in the under 66kg (If I recall correctly) category lifting the bar a couple of inches. The reason why I hate the normies in r/all is because these know-it-alls who have never stepped their foot in the gym start criticizing the dude's form. Of course, do I believe that stuff like this should be allowed in powerlifting? Probably not, but I am just a dude who lifts and not a powerlifter. Furthermore, in every sport, people will find ways to bend the rules to their favor. This has happened since the early days of each sport and will continue happening. Anyways, this is not even what I wanted to rant about, but this stuff has been on my mind lately, so whatever.&nbsp;
 
-![Cookie](https://source.unsplash.com/z4qzNEwtqSM)
-
-Little Gavin loves them.
-
-![Cookie](https://source.unsplash.com/YnrSLOAjOEA)
-
-Delicious!
+The real shit I wanted to rant about is the featured image of the post. This is a legit Google and I remember I had done this about half a year ago.&nbsp;
