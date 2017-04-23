@@ -2,7 +2,7 @@
 date: 2017-04-23 20:00:00
 title: 'Im confused: top-tier companies with shitty marketing'
 categories:
-  - Lifestyle
+  - Marketing
 featured_image: 'https://source.unsplash.com/qJ0zGkrE1Zg/1920x1200'
 recipe:
   servings: 12 cupcakes
@@ -33,6 +33,54 @@ recipe:
     * 1 tablespoon butter
   directions_markdown: >-
     **Cupcakes**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -81,6 +129,54 @@ recipe:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     **Icing**
 
     1. Combine all of the above in a food processor and process until smooth.
@@ -90,16 +186,6 @@ recipe:
 ---
 
 
-These chocolate chocolate cupcakes have a stunning appearance and a rich, chocolatey sweetness. I've found at parties people prefer bite sized deserts so I'd recommend making 24 mini cupcakes rather than 12 large. That way you won't find half eaten cupcakes at your party!
+Wussup guys, w/oBS here.
 
-![Cupcakes](https://source.unsplash.com/UaeVmc51Ttw)
-
-You can never go wrong with sprinkles.
-
-![Cupcakes](https://source.unsplash.com/rNCnhO8XCeQ)
-
-Milk is a great addition to any cupcake experience.
-
-![Cupcakes](https://source.unsplash.com/hUGe-RCni3k)
-
-Why not add some popcorn?
+So I am in no way an expert in the field of marketing, but it is sort of the shit I like, and Im frequently reading about different topics, mostly digital marketing - content editing, SEO, analytics, etc.
