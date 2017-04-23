@@ -1,6 +1,6 @@
 ---
 date: 2017-04-23 20:00:00
-title: Chocolate Cupcakes
+title: 'Im confused: top-tier companies with shitty marketing'
 categories:
   - Lifestyle
 featured_image: 'https://source.unsplash.com/qJ0zGkrE1Zg/1920x1200'
@@ -38,6 +38,18 @@ recipe:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
     1. Preheat Oven 350 degree
 
     2. In a bowl combine flour, cocoa baking powder, baking soda and salt.
@@ -52,6 +64,18 @@ recipe:
     5. Bake 20 25 minutes or until toothpick test comes out clean.
 
     6. Let cool.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
