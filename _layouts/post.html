@@ -38,9 +38,9 @@ layout: default
 		<a class="pinterest" href="//pinterest.com/pin/create/link/?url={{ share_url }}&amp;description={{ page.description }}">{% include social-icon.html icon="Pinterest" %}</a>
 		<a class="email" href="mailto:?subject=I've%20found%20a%20great%20recipe&amp;body=Check%20it%20out%20-%20{{ share_url }}">{% include social-icon.html icon="Email" %}</a>
 	</div>
-
-	<div name="comments" class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" width="100%"></div>
-
+<a name="comments">
+	<div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-numposts="5" width="100%"></div>
+</a>
 </article>
 
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
