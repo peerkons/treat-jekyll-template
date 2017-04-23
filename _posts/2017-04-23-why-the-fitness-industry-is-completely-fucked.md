@@ -31,6 +31,8 @@ recipe:
 ---
 
 
+Wussup guys, w/oBS here.
+
 Ever sit your ass down on Reddit and notice that a bodybuilding/fitness/steroid/weightlifting/whatever subreddit reaches the front page? Well, when it happens from time to time, the outcome always is the same. 9Gaggers who sit their asses in the front page ready their fingers for some quality trolling, while gym social justice warriors put down their dumbbells to prepare for a counterattack. The reason why stupid shit happens is because behind the protection of a computer screen everybody feels mighty and capable of giving out a punch. Most recently, a similar post reached r/whitepeoplegifs and now r/wtf -
 
 https://www.reddit.com/r/WTF/comments/66x9mj/nice_set_xpost_from_rwhitepeoplegifs/?utm_content=comments&utm_medium=hot&utm_source=reddit&utm_name=WTF
@@ -57,4 +59,32 @@ My belief is that awareness must be raised and steroids must be legal. Education
 
 I believe that legalization would:
 
-1)Increase the amount of&nbsp;
+1)Increase the amount of users, definitely;
+
+2)Reduce controversy;
+
+3)Raise general awareness;
+
+4)Cause more studies to be made - making them more safe, allowing for more testing;
+
+5)Increase people getting hurt (probably);
+
+6)Allow users to step out of the closet, no more fucked up views;
+
+7)Offer information more readily available for a less tech-savvy internet user;
+
+8)Increase overall gear quality.
+
+This is my personal view on the industry and gear. As I said, I have nothing against it, as I plan on using myself in the future (at least currently). For some quality read ups about roids, I recommend reading the following sources:
+
+1) Reddit Steroids Wiki
+
+2)r/bodybuilding | r/steroids | r/steroidsourcetalk
+
+3) One of reddit user's blog - bodymaxing.com
+
+4) BOOKS (Just google around :) )
+
+May your gains come quick, w/oBS out.
+
+&nbsp;
