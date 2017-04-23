@@ -98,6 +98,70 @@ recipe:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     1. Preheat Oven 350 degree
 
     2. In a bowl combine flour, cocoa baking powder, baking soda and salt.
@@ -177,6 +241,70 @@ recipe:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     **Icing**
 
     1. Combine all of the above in a food processor and process until smooth.
@@ -188,4 +316,6 @@ recipe:
 
 Wussup guys, w/oBS here.
 
-So I am in no way an expert in the field of marketing, but it is sort of the shit I like, and Im frequently reading about different topics, mostly digital marketing - content editing, SEO, analytics, etc.
+So I am in no way an expert in the field of marketing, but it is sort of the shit I like, and Im frequently reading about different topics, mostly digital marketing - content editing, SEO, AdWords, analytics, etc. Anyways, I have started to look for a job in the field now, and from talking to people around me who have already established themselves in a good position in the department of large companies, it makes me feel sad about the many companies. Like how the fuck can you be an international company with a fuckton of millions in sales, but budget zero fucking dollars for your companies' marketing. Like what the fuck?
+
+I understand that they have themselves structured very hierarchically
